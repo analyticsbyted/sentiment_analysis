@@ -1,6 +1,6 @@
 # Fine Food Product Reviews Sentiment Analysis
 
-This project focuses on sentiment analysis of customer reviews and star ratings for fine food products on Amazon.com. The goal is to analyze the sentiment expressed by customers in their reviews and correlate it with the star ratings.
+This project focuses on sentiment analysis of customer reviews and star ratings for fine food products on Amazon.com. The goal is to analyze the sentiment expressed by customers in their reviews and correlate it with the star ratings.  NLTK and Hugging Face Transformers were employed to conduct the analysis.
 
 ## Dataset
 
